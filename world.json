@@ -1,0 +1,89 @@
+{
+  "title": "Дракон Ледяного Пика",
+  "authors": [
+    {
+      "name": "VkInco",
+      "flags": {}
+    }
+  ],
+  "url": "https://boosty.to/vkinco",
+  "manifest": "https://www.dropbox.com/s/zgudgzep8fki38h/world.json?dl=1",
+  "download": "https://www.dropbox.com/s/dutd8q8r7t2f4tq/icespirepeakworld.zip?dl=1",
+  "relationships": {
+    "requires": [
+      {
+        "id": "betterroofs",
+        "type": "module",
+        "manifest": "https://github.com/theripper93/Better-Roofs/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "levels",
+        "type": "module",
+        "manifest": "https://github.com/theripper93/Levels/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "advanced-drawing-tools",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/dev7355608/advanced-drawing-tools/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-active-tiles/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
+        "type": "module",
+        "manifest": "https://github.com/theripper93/wall-height/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "perfect-vision",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/dev7355608/perfect-vision/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "Multilevel Tokens",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's TokenBar",
+        "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-tokenbar/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "df-scene-enhance",
+        "type": "module",
+        "manifest": "https://dragonflagon.cafe/mods/man/df-scene-enhance",
+        "compatibility": {}
+      }
+    ]
+  },
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.0.3",
+  "id": "icespirepeak",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  },
+  "description": "<p>Прилетев из далеких северных земель, молодой белый дракон по имени Криовейн поселился в Горах Мечей, претендуя на заснеженный хребет в качестве своего имения. Типичный для своего рода, Криовейн тупоумен и жесток. Дракон контролирует небо вокруг Ледяного Пика, осматривая его территорию и охотясь за едой и легкими сокровищами. С каждым днем территория дракона увеличивается по мере того, как он перемещается дальше над землей, охотясь на все, что он может поймать своими когтями или заморозить своим ледяным дыханием. Слухи о появлении дракона и его нападениях становятся все более частыми.</p>",
+  "background": "worlds/icespirepeak/assets/journals/DD-The-Essentials-Kit-Dragon-Of-Icespire-Peak-Cover-Art.webp"
+}
